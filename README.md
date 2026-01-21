@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📫 Contate-me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/felipefullstaker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/felipe-augusto-4b547522a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipefullstaker@gmail.com)
 
 ## 📈 Progresso Diário
