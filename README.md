@@ -1,4 +1,4 @@
-" #FelipeFullStaker em constru��o??" 
+" #FelipeFullStaker em construção??" 
 
 > migrando de carreira e contruindo meu futuro no desenvolvimento Web
 
