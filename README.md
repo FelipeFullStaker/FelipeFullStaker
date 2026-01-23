@@ -24,8 +24,8 @@
 <!-- Updates automáticos virão aqui -->
 
 Projetos feitos
-[![todo-list ninja:](https://felipefullstaker.github.io/todo-list-ninja/)
-[!Instagram clone basico:](https://felipefullstaker.github.io/instagram-clone-basico/)
+[[todo-list ninja:(https://felipefullstaker.github.io/todo-list-ninja/)
+[Instagram clone basico:](https://felipefullstaker.github.io/instagram-clone-basico/)
 
 ---
 **📅 Iniciado em:** Janeiro/2026
