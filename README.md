@@ -20,7 +20,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/felipe-augusto-4b547522a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipefullstaker@gmail.com)
 
-## 📈 Progresso Diário
-<!-- Updates automáticos virão aqui -->
 ---
 **📅 Iniciado em:** Janeiro/2026
