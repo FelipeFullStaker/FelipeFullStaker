@@ -2,9 +2,6 @@
 
 > migrando de carreira e contruindo meu futuro no desenvolvimento Web
 
-## 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeFullStaker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ## 🎯 Objetivo Atual
 - ✅ **Fase 1:** Fundamentos (HTML, CSS, JS)
 - 🔄 **Fase 2:** Back-end (Node.js)
